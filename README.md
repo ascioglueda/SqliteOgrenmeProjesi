@@ -1,0 +1,2 @@
+# SqliteOgrenmeProjesi
+ Sqlite Ögrenme Projesi
